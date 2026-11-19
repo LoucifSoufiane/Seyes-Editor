@@ -1,0 +1,11 @@
+{
+  "name": "sayes-ui",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@animate-ui/react": "^0.1.0",
+    "motion": "^12.4.7",
+    "class-variance-authority": "^0.7.1",
+    "cn": "^0.1.1"
+  }
+}
